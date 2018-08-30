@@ -1,0 +1,2 @@
+# GalaxyCoin
+TestDownload
